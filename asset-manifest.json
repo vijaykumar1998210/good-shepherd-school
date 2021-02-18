@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/good-shepherd-school/static/css/main.075c1e94.chunk.css",
+    "main.js": "/good-shepherd-school/static/js/main.714fb576.chunk.js",
+    "main.js.map": "/good-shepherd-school/static/js/main.714fb576.chunk.js.map",
+    "runtime-main.js": "/good-shepherd-school/static/js/runtime-main.3d68589f.js",
+    "runtime-main.js.map": "/good-shepherd-school/static/js/runtime-main.3d68589f.js.map",
+    "static/css/2.150d169a.chunk.css": "/good-shepherd-school/static/css/2.150d169a.chunk.css",
+    "static/js/2.c5607e6e.chunk.js": "/good-shepherd-school/static/js/2.c5607e6e.chunk.js",
+    "static/js/2.c5607e6e.chunk.js.map": "/good-shepherd-school/static/js/2.c5607e6e.chunk.js.map",
+    "index.html": "/good-shepherd-school/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/good-shepherd-school/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.075c1e94.chunk.css.map": "/good-shepherd-school/static/css/main.075c1e94.chunk.css.map",
+    "static/js/2.c5607e6e.chunk.js.LICENSE.txt": "/good-shepherd-school/static/js/2.c5607e6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d68589f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c5607e6e.chunk.js",
+    "static/css/main.075c1e94.chunk.css",
+    "static/js/main.714fb576.chunk.js"
+  ]
+}
