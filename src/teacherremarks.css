@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.teacherRemarks {
+
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  max-width: 1300px;
+  margin-top: 60px;
+}
+.teacher_box1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+.teacher_input {
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #234783;;
+  width: 1000px;
+  margin-left: 20px;
+  margin-bottom: 15px;
+  color: #234783;
+}
+.teacher_label{
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 16px;
+  color: #234783;
+
+}
+

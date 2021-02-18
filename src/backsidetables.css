@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.backsidetables {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-position: center;
+  position: relative;
+  z-index: 2;
+  border: 2px solid#234783;
+  padding: 20px;
+
+}
+.bg_gradient{
+  width: 100%;
+  height:70vh;
+  position: absolute;
+  opacity: 0.1;
+  left: 30%;
+  top:40%;
+  z-index: -1;
+}

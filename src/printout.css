@@ -1,0 +1,24 @@
+.printout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+
+.print{
+    padding: 10px 32px;
+    border-radius: 25px;
+    background-color: #234783;
+    color:#fcfaf0;
+    text-align: center;
+    border: none;
+    outline: none;
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-top: 30px;
+}
+@media print {
+    @page { size: landscape; }
+  }

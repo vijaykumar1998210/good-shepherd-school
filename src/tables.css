@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.table tr,
+th {
+  text-align: center;
+  border: 2px solid black;
+}
+.Grade {
+  text-transform: uppercase;
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 200px;
+}
+.tables {
+  max-width: 1300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 50px;
+}
+.head1 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: 2px solid black;
+}
+.head2 {
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: 2px solid black;
+}
+.head3 {
+  text-transform: capitalize;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  border: 2px solid black;
+}
+.head4 {
+  text-transform: capitalize;
+  font-size: 19px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 2px solid black;
+}
+.head1_bg{
+  background-color: #234783;
+  color:#fcfaf0;
+}
+.head2_bg{
+  background-color: #234783;
+  color:#fcfaf0;
+}
+.head1_color{
+  color: #234783;
+}

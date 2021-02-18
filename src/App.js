@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+// import BacksideTables from "./BacksideTables";
+// import Biodata from "./Biodata";
+// import Header from "./Header";
+import Printout from "./Printout";
+import Printout1 from './Printout1'
+// import Tables from "./Tables";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Header />
+      <Biodata />
+      <Tables /> */}
+      <Printout1 />
+
+      {/* <BacksideTables /> */}
+      <Printout />
     </div>
   );
 }

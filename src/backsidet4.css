@@ -1,0 +1,35 @@
+.table6_input{
+    background: transparent;
+    border: none;
+    outline: none;
+    padding-left: 90px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid black;
+    color: #234783;
+}
+.t4head{
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    border: 2px solid black;
+}
+.backsidet4{
+    margin-top: 30px;
+    width: 1300px;
+    
+}
+table tr,td{
+    border: 2px solid black;
+}
+.t5head{
+    text-transform: capitalize;
+    font-weight: 500;
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 16px;
+ 
+
+}

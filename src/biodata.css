@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.biodata {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background : "url('https://picsum.photos/id/237/200/300')"; */
+  width: 100%;
+  text-align: center;
+}
+.biodata_head {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 80px;
+  color: #234783;
+  margin-top: 40px;
+}
+.bio_photo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.bio_profile {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.bio_profile_head {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 20px;
+  margin-bottom: 25px;
+  color: #234783;
+}
+
+.profile_box1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+.profile_box1 span {
+  padding-left: 25px;
+  padding-right: 10px;
+}
+.photo_input {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #234783;
+
+  /* border-bottom: 1px solid #234783; */
+}
+.bio_photo_input {
+  margin-bottom: 40px;
+}
+.profile_input {
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #234783;
+  width: 700px;
+  margin-bottom: 12px;
+  color: #234783;
+}
+.profile_label {
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #234783;
+}
+.acedmic_head {
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  color: #234783;
+  margin-top: 10px;
+  text-align: center;
+  margin-left: 80px;
+  font-size: 22px;
+}
